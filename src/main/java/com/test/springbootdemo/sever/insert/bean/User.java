@@ -23,11 +23,4 @@ public class User implements Serializable{
         this.userName = userName;
     }
 
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
 }
